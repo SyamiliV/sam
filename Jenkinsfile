@@ -2,7 +2,7 @@ node {
 
 stage ('checkout') {
 
-echo "hello"
+echo "hello world"
 
 }}
 
